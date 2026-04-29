@@ -63,7 +63,73 @@ The toolkit is shared with the expectation that it will be used responsibly, wit
 
 This toolkit brings together a set of Rust-based modules that operate across both the network and application layers, providing a cohesive environment for analyzing system behavior, building async workflows, and understanding protocol interactions. It is designed as a practical, everyday workspace for developers and security researchers working in authorized lab environments, where different components can be combined to study performance, observe patterns, and experiment with structured architectures. Rather than isolated utilities, the toolkit is organized to support a complete workflow—enabling users to explore, test, and refine their understanding of modern systems through controlled, responsible use.
 
+⚙️ Build & Compilation
 
+This project is built using the Rust toolchain via Cargo.
+
+🧱 Build (Debug)
+
+Compile the project in debug mode:
+
+cargo build
+
+---
+
+🚀 Build (Release — Optimized Binary)
+
+Compile an optimized binary for performance:
+
+cargo build --release
+
+The compiled binary will be available at:
+
+target/release/<your_binary_name>
+
+---
+
+▶️ Run the Project
+
+Run directly using Cargo:
+
+cargo run
+
+Or run the optimized binary:
+
+./target/release/<your_binary_name>
+
+---
+
+🧪 Run with Arguments
+
+If your program accepts arguments:
+
+cargo run -- <args>
+
+---
+
+📦 Build for Specific Target
+
+Cross-compile for a specific architecture:
+
+rustup target add x86_64-unknown-linux-gnu
+cargo build --release --target x86_64-unknown-linux-gnu
+
+---
+
+⚡ Strip Binary (Reduce Size)
+
+Optional step to reduce binary size:
+
+strip target/release/<your_binary_name>
+
+---
+
+🧠 Notes
+
+- Use release mode for real performance
+- Debug mode is slower but useful for testing
+- Ensure Rust toolchain is installed ("rustup")
+- In Kali or Parrot write Command Sudo Apt install rust or rustc
 ---
 
 ⚠️ Warnings, Legal & Reality Check
