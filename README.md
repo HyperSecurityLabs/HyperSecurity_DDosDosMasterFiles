@@ -2,7 +2,8 @@
 🦀 HyperSecurity Labs — Rust Network Systems Toolkit
 
 <p align="center">
-  🦀 Built with Rust • ⚙️ High-Performance Systems • 🧠 Structured Engineering
+  🦀 Built with Rust • ⚙️ High-Performance Systems • 
+          🧠 StructuredEngineering
 </p>---
 
 ⚡ Overview
