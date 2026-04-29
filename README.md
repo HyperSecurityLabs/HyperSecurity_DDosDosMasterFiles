@@ -8,7 +8,7 @@
 
 ⚡ Overview
 
-HyperSecurity Labs is a Rust-based network systems toolkit designed for research, experimentation, and deep analysis of modern system behavior. It is not a single-purpose tool, but a collection of carefully engineered components that work together to explore how network interactions, asynchronous execution, and system-level logic behave under controlled and measurable conditions.
+HyperSecurity Offensive Labs finally introduces a Rust-based network systems toolkit designed for research, experimentation, and deep analysis of modern system behavior. It is not a single-purpose tool, but a collection of carefully engineered components that work together to explore how network interactions, asynchronous execution, and system-level logic behave under controlled and measurable conditions.
 
 The project focuses on building reliable and efficient systems using Rust, leveraging its strengths in memory safety, concurrency, and performance. Each module is developed through a process of calculated design, iterative verification, and logical refinement. Instead of relying on shortcuts or prebuilt abstractions without understanding, the toolkit emphasizes transparency in how systems operate internally.
 
