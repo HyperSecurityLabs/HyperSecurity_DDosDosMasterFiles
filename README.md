@@ -1,14 +1,14 @@
-# HyperSecurity_DDosDosMasterFiles
+* HyperSecurity_DDosDosMasterFiles
 🦀 HyperSecurity Labs — Rust Network Systems Toolkit
 
 <p align="center">
   🦀 Built with Rust • ⚙️ High-Performance Systems • 
-          🧠 StructuredEngineering
+          🧠 StructuredEngineering and Cpu freindly
 </p>---
 
 ⚡ Overview
 
-HyperSecurity Offensive Labs finally introduces a Rust-based network systems toolkit designed for research, experimentation, and deep analysis of modern system behavior. It is not a single-purpose tool, but a collection of carefully engineered components that work together to explore how network interactions, asynchronous execution, and system-level logic behave under controlled and measurable conditions.
+HyperSecurity Offensive Labs finally introduces a Rust-based network systems toolkit designed for research, experimentation, and deep analysis of modern system behavior. It is not a single-purpose tool, but a collection of carefully engineered components that work together to explore how network interactions, asynchronous execution, and system-level logic behave under controlled and measurable Conditions and Resources friendly.
 
 The project focuses on building reliable and efficient systems using Rust, leveraging its strengths in memory safety, concurrency, and performance. Each module is developed through a process of calculated design, iterative verification, and logical refinement. Instead of relying on shortcuts or prebuilt abstractions without understanding, the toolkit emphasizes transparency in how systems operate internally.
 
@@ -22,7 +22,9 @@ This toolkit represents a structured approach to system development. It is built
 - how asynchronous workers coordinate execution
 - how network protocols behave under different conditions
 - how modular architectures improve scalability and control
-
+- Cpu Frindly in Long time attacks
+- TRY TO NOT COMSUME ONE THREAD PER ATTACKS
+  
 Rather than presenting a finished product, this project acts as a foundation for experimentation and learning, where each component can be analyzed, modified, and extended.
 
 ---
