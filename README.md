@@ -24,6 +24,7 @@ This toolkit represents a structured approach to system development. It is built
 - how modular architectures improve scalability and control
 - Cpu Frindly in Long time attacks
 - TRY TO NOT COMSUME ONE THREAD PER ATTACKS
+- Note network level Attacks Needed root or sudo 
   
 Rather than presenting a finished product, this project acts as a foundation for experimentation and learning, where each component can be analyzed, modified, and extended.
 
