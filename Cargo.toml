@@ -2,8 +2,8 @@
 name = "AdvancedCyberWarFare-Tools"
 version = "9.20.2091"
 edition = "2021"
-authors = ["khaninkali <HyperSecurity.Netlify.app>"]
-description = "Advanced Network Security Testing Suite - Professional penetration Testing 
+authors = ["khaninkali <HyperSecuritylabs.Netlify.app>"]
+description = "Advanced Network Security Testing Suite - Professional penetration Testing" 
 license = "Apache-2.0"
 keywords = ["security", "penetration-testing", "network", "hacking", "offensive-security"]
 categories = ["command-line-utilities", "network-programming"]
